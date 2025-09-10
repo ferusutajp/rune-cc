@@ -1,2 +1,2 @@
 # rune-cc
-virtues and stuff idk
+rune cc development items
